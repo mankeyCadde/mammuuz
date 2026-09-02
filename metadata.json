@@ -1,0 +1,6 @@
+{
+  "name": "Maamuuz Commerce",
+  "description": "Modern, clean, and premium e-commerce platform for Maamuuz featuring complete shopping, authentication, account, checkout, and informational pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
